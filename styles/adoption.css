@@ -1,0 +1,21 @@
+/* HEADING STYLES */
+
+h1 {
+    text-align: center;
+    margin: 5%;
+    font-size: 5rem;
+    line-height: 5rem;
+}
+
+/* CARD STYLES */
+
+.cardRow {
+    justify-self: center;
+    display: flex;
+    width: 90%;
+}
+
+.card {
+    width: 25%;
+    margin: 5%;
+}

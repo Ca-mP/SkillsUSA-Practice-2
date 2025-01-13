@@ -1,0 +1,60 @@
+/* TOP WINDOW STYLES */
+
+img#topWindow {
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+/* ABOUT US SECTION STYLES */
+
+div.aboutUs {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+div.aboutUs h2 {
+    width: 100%;
+    text-align: center;
+}
+
+article.aboutUs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2%;
+    width: 100%;
+    align-items: center;
+}
+
+article.aboutUs p {
+    width: 40%;
+}
+
+article.aboutUs img {
+    width: 40%;
+}
+
+/* NEWS SECTION STYLES */
+
+div#news {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+div#newsCards {
+    display: flex;
+    justify-content: space-around;
+}
+
+div#newsCards .card {
+    width: 30%;
+}
+
+div.card img {
+    width: 70%;
+}
