@@ -1,0 +1,27 @@
+/* OPPORTUNITIES SECTION STYLES*/
+
+#opportunities {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    margin: 1% 0;
+}
+
+#opportunities #opportunitiesText {
+    display: flex;
+    flex-direction: row;
+}
+
+#opportunities p {
+    width: 50%;
+}
+
+#opportunites #fewNotes {
+    width: 50%;
+}

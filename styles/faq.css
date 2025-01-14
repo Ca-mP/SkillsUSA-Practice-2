@@ -1,0 +1,19 @@
+/* HEADING STYLES */
+
+h1 {
+    text-align: center;
+    margin: 3% 0;
+}
+
+/* QUESTION STYLES */
+
+#faq  ul {
+    display: inline;
+    width: 100%;
+    margin-bottom: 3%;
+}
+
+#faq li{
+    margin: 30px;
+    width: 30%;
+}
